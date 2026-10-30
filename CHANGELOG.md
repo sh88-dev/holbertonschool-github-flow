@@ -1,4 +1,4 @@
 ## v1.1.0
 
-- <Updated version included merges from two branches since deleted, that included changes to introduction and history documents>
-- <Conflict resolution was the reason behind this release, with changes again added via two local branches>
+- Expanded intro and history docs with new content describing the project's purpose and how it has developed.
+- Resolved merge conflict in docs/collaboration.md by combining competing edits to its first paragraph into a single version.
